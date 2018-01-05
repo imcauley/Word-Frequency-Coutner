@@ -1,0 +1,5 @@
+W,http://www.literature.org/authors/carroll-lewis/alices-adventures-in-wonderland/chapter-01.html  
+W,http://www.literature.org/authors/carroll-lewis/alices-adventures-in-wonderland/chapter-02.html
+W,http://www.literature.org/authors/carroll-lewis/alices-adventures-in-wonderland/chapter-03.html
+W,http://www.literature.org/authors/carroll-lewis/alices-adventures-in-wonderland/chapter-04.html
+W,http://www.literature.org/authors/carroll-lewis/alices-adventures-in-wonderland/chapter-05.html

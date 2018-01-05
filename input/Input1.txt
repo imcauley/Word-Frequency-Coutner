@@ -1,0 +1,2 @@
+F,websites/small1.html
+F,websites/jokes.html
